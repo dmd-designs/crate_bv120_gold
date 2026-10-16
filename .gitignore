@@ -1,0 +1,11 @@
+build/
+out/
+.vs/
+CMakeUserPresets.json
+*.user
+preview.wav
+./tubSkeemr
+./build-vst/_deps/juce-src
+.vscode
+build-vst/
+test-build/
